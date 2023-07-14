@@ -1,0 +1,54 @@
+IP:(internet protocol)
+
+whenever a hardware machine get access to internet connection. It will get assigned an ip address.
+
+Ipv4 
+
+=>32 bit address 
+=>2^32 - combination
+=>1981
+=>DHCP & manual configuration
+
+Ipv6
+
+=>128 bit address
+=>2^128 - combination
+=>1998
+=>automatic configuration
+
+Ipv4 has 5 classes and each class has private and public ip addresses (A,B,C,D,E)
+
+A->(0.0.0.0
+       10.0.0.0
+       10.255.255.255
+   127.255.255.255.)
+
+-> A class used by MAANG companies and hosting provider.
+
+B->(128.0.0.0
+       172.16.0.0
+       172.31.255.255
+   191.255.255.255.)
+
+ -> B class used by StartUps companies.
+
+C->(192.0.0.0
+       192.168.0.0
+       192.168.255.255
+   223.255.255.255.)
+
+ ->Its is used by Home users for public.
+
+D->(224.0.0.0
+       
+   239.255.255.255.)
+
+ ->It is used by news channels and multicasting.
+
+E->(240.0.0.0
+       
+   225.255.255.255.)
+
+ ->It will use in the future case experiments.
+
+DHCP:(Dynamic Host Configuration Protocol)
