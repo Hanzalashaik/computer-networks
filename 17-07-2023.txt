@@ -1,0 +1,20 @@
+  Protocols 
+
+1)A set of rules how connected devices communicate across a network to exchange information easily and safley.
+2)Protocols serve a common language for devices to enable communication process for software and hardware.
+3)Each protocols has a predefined port number.
+
+Types of Protocols
+
+ 1.HTTP -80
+ 2.HTTPS-443
+ 3.FTP-21
+ 4.SSH-22
+ 5.DNS-53
+ 6.ICMP-OWN 
+ 7.SFTP -22
+ 8.SMTP -587
+ 9.IMAP-143
+ 10.TELNET-23
+
+*Secure Shell (ssh 22):- Terminal sharing 
